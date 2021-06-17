@@ -50,10 +50,13 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Personal Profile </h2>
 Myers-Briggs Test Results:
-<img src="Myers-Briggs.PNG" alt=Myers-Briggs Test width="500" height="500">
+<p></p>
+<img src="MyersBriggs.PNG" alt=Myers-Briggs Test width="500" height="500">
 Online Learning Style Test:
+<p></p>
 <img src="VARK.PNG" alt=Vark Test width="500" height="500">
 Creativity Test:
+<p></p>
 <img src="Creativity.PNG" alt=Creativity Test width="500" height="500">
 
 <h3>What do these Results Mean:</h3>
