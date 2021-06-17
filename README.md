@@ -25,7 +25,7 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Ideal Job </h2>
 <p><a href="https://www.seek.com.au/job/52330332?type=standard#searchRequestToken=58a63c16-5c79-4067-a6df-2665505689c7" target="_blank">Ideal Software Development Job</a></p>
-<img src="Ideal Job.JPG" alt=Ideal Job width="400" height="500">
+<img src="Ideal Job.JPG" alt=Ideal Job width="800" height="500">
 
 <h3>The Position:</h3>
 <p>This position is for a Software engineer which main role is the development and maintenance of the C# network server and Microsoft SQL database. Any IT development studio interest me just as long as I am able to get into the industry to get experience.</p>
@@ -49,7 +49,22 @@ I'm an Australian born student. Ever since finishing school I've studied various
 <p>Hopefully throughout my entire course of IT, I will be able to develop the skills required to at least delve deeper into what each type of coding programs are needed. Spending personal free time experimenting with C and C++ is also going to be beneficial to this position as to get some experience. Also taking any position I can when graduating to get eh required experience will also be beneficial.</p>
 
 <h2> Personal Profile </h2>
-<p> Info here</p>
+Myers-Briggs Test Results:
+<img src="Myers-Briggs.PNG" alt=Myers-Briggs Test width="500" height="500">
+Online Learning Style Test:
+<img src="VARK.PNG" alt=Vark Test width="500" height="500">
+Creativity Test:
+<img src="Creativity.PNG" alt=Creativity Test width="500" height="500">
+
+<h3>What do these Results Mean:</h3>
+<p>In a very short Summary, these results mean that I tend to be a very introverted but respectful personal who tends to learn by visual means. I have always known that I tend to learn better by visual means, whether it be by someone directly showing me how to accomplish something of but pictured diagrams showing me step by step instructions on a procedure. The main downside of this however is that I am very quick to get distracted.</p>
+
+<h3>How do I think these Influence my team behavior:</h3>
+<p>If anything, these results will hamper my ability to work in a team. Since I am very introverted and tend to want to work alone, I am very quick to help make a plan, assign roles so that I can get back to working on my own, believing that all other people in the group are working on their appropriate sections.</p>
+
+<h3>How should I take this into account when forming teams:</h3>
+<p>Having someone who would rather work by themselves would be hard to implement into a team environment but I do believe it is possible. I have had to work on many team tasks in the past and there are many people are willing to help introverted people such as myself without being demeaning. Having people of various strengths and weaknesses is essential to creating a cohesive group as there are able to help each other. Having introverted, extroverted, creative, factual, leaders, followers etc... people is important to create a balanced group environment.</p>
+
 
 
 </body>
