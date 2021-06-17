@@ -25,7 +25,7 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Ideal Job </h2>
 <p><a href="https://www.seek.com.au/job/52330332?type=standard#searchRequestToken=58a63c16-5c79-4067-a6df-2665505689c7" target="_blank">Ideal Software Development Job</a></p>
-<img src="Ideal Job.JPG" alt=Ideal Job width="800" height="500">
+<img src="Ideal Job.JPG" alt=Ideal Job width="650" height="500">
 
 <h3>The Position:</h3>
 <p>This position is for a Software engineer which main role is the development and maintenance of the C# network server and Microsoft SQL database. Any IT development studio interest me just as long as I am able to get into the industry to get experience.</p>
@@ -50,13 +50,12 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Personal Profile </h2>
 Myers-Briggs Test Results:
-<p></p>
 <img src="MyersBriggs.PNG" alt=Myers-Briggs Test width="500" height="500">
+<p></p>
 Online Learning Style Test:
-<p></p>
 <img src="VARK.PNG" alt=Vark Test width="500" height="500">
-Creativity Test:
 <p></p>
+Creativity Test:
 <img src="Creativity.PNG" alt=Creativity Test width="500" height="500">
 
 <h3>What do these Results Mean:</h3>
