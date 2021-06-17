@@ -5,7 +5,7 @@
 </head>
 <body style="background-color:lightgrey;">
 <h2>Personal Information</h2>
-<img src="Assignmentphoto.jpg" alt=self Photo width="300" height="375">
+<img src="Assignmentphoto.jpg" alt=self Photo width="300" height="400">
 <h3>Name:</h3>
 Sean Delaney
 <h3>Student Number:</h3>
@@ -25,7 +25,7 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Ideal Job </h2>
 <p><a href="https://www.seek.com.au/job/52330332?type=standard#searchRequestToken=58a63c16-5c79-4067-a6df-2665505689c7" target="_blank">Ideal Software Development Job</a></p>
-<img src="Ideal Job.jpg" alt=Ideal Job width="300" height="500">
+<img src="IdealJob.jpg" alt=Ideal Job width="300" height="500">
 
 
 <p> Info </p>
