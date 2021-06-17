@@ -31,7 +31,7 @@ I'm an Australian born student. Ever since finishing school I've studied various
 <p> Info </p>
 
 <h2> Personal Profile </h2>
-<p> Info </p>
+<p> Info here</p>
 
 
 </body>
