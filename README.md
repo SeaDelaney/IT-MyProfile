@@ -25,10 +25,28 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Ideal Job </h2>
 <p><a href="https://www.seek.com.au/job/52330332?type=standard#searchRequestToken=58a63c16-5c79-4067-a6df-2665505689c7" target="_blank">Ideal Software Development Job</a></p>
-<img src="Ideal Job.JPG" alt=Ideal Job width="300" height="500">
+<img src="Ideal Job.JPG" alt=Ideal Job width="400" height="500">
 
-
-<p> Info </p>
+<h3>The Position:</h3>
+<p>This position is for a Software engineer which main role is the development and maintenance of the C# network server and Microsoft SQL database. Any IT development studio interest me just as long as I am able to get into the industry to get experience.</p>
+<h3>Skills required:</h3>
+<ul>
+  <li>Bachelor in appropriate studies</li>
+  <li>5 Years of experience</li>
+  <li>Knowledge of coding programs such as C and C++</li>
+  <li>Database management experience</li>
+  <li>Ability to work in teams</li>
+</ul>
+<p>And of course the interest in this field of work. so much so that you have an interest in gaming(preferably appropriate to this position)</p>
+<h3>Skills currently have:</h3>
+<ul>
+  <li>Currently Working on the Degree</li>
+  <li>Very little knowledge of C and C++</li>
+  <li>Very little experience in SQL databases</li>
+  <li>Have a massive interest in gaming (All labeled and more)</li>
+</ul>
+<h3>How will I obtain required skills:</h3>
+<p>Hopefully throughout my entire course of IT, I will be able to develop the skills required to at least delve deeper into what each type of coding programs are needed. Spending personal free time experimenting with C and C++ is also going to be beneficial to this position as to get some experience. Also taking any position I can when graduating to get eh required experience will also be beneficial.</p>
 
 <h2> Personal Profile </h2>
 <p> Info here</p>
