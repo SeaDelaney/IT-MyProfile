@@ -51,7 +51,7 @@ I'm an Australian born student. Ever since finishing school I've studied various
 <h2> Personal Profile </h2>
 Myers-Briggs Test Results:
 <p></p>
-<img src="MyersBriggs.PNG" alt=Myers-Briggs Test width="600" height="600">
+<img src="MyersBriggs.jpg" alt=Myers-Briggs Test width="600" height="600">
 <p></p>
 Online Learning Style Test:
 <p></p>
