@@ -53,6 +53,7 @@ I'm an Australian born student. Ever since finishing school I've studied various
 <p></p>
 <img src="MyersBriggs.png" alt=Myers-Briggs Test width="500" height="500">
 <img src="MyersBriggs.jpg" alt=Myers-Briggs Test width="500" height="500">
+<img src="MB.png" alt=Myers-Briggs Test width="500" height="500">
 <p></p>
 <h3>Online Learning Style Test:</h3>
 <p></p>
