@@ -49,15 +49,15 @@ I'm an Australian born student. Ever since finishing school I've studied various
 <p>Hopefully throughout my entire course of IT, I will be able to develop the skills required to at least delve deeper into what each type of coding programs are needed. Spending personal free time experimenting with C and C++ is also going to be beneficial to this position as to get some experience. Also taking any position I can when graduating to get eh required experience will also be beneficial.</p>
 
 <h2> Personal Profile </h2>
-Myers-Briggs Test Results:
+<h3>Myers-Briggs Test Results:</h3>
 <p></p>
-<img src="MyersBriggs.jpg" alt=Myers-Briggs Test width="600" height="600">
+<img src="MyersBriggs.PNG" alt=Myers-Briggs Test width="600" height="600">
 <p></p>
-Online Learning Style Test:
+<h3>Online Learning Style Test:</h3>
 <p></p>
 <img src="VARK.PNG" alt=Vark Test width="500" height="500">
 <p></p>
-Creativity Test:
+<h3>Creativity Test:</h3>
 <p></p>
 <img src="Creativity.PNG" alt=Creativity Test width="500" height="500">
 
