@@ -50,16 +50,19 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2> Personal Profile </h2>
 Myers-Briggs Test Results:
-<img src="MyersBriggs.PNG" alt=Myers-Briggs Test width="1000" height="1000">
+<p></p>
+<img src="MyersBriggs.jpg" alt=Myers-Briggs Test width="600" height="600">
 <p></p>
 Online Learning Style Test:
+<p></p>
 <img src="VARK.PNG" alt=Vark Test width="500" height="500">
 <p></p>
 Creativity Test:
+<p></p>
 <img src="Creativity.PNG" alt=Creativity Test width="500" height="500">
 
 <h3>What do these Results Mean:</h3>
-<p>In a very short Summary, these results mean that I tend to be a very introverted but respectful personal who tends to learn by visual means. I have always known that I tend to learn better by visual means, whether it be by someone directly showing me how to accomplish something of but pictured diagrams showing me step by step instructions on a procedure. The main downside of this however is that I am very quick to get distracted.</p>
+<p>In a very short Summary, these results mean that I tend to be a very introverted but respectful person who tends to learn by visual learning means. I have always known that I tend to learn better by visual means, whether it be by someone directly showing me how to accomplish something of but pictured diagrams showing me step by step instructions on a procedure. The main downside of this however is that I am very quick to get distracted.</p>
 
 <h3>How do I think these Influence my team behavior:</h3>
 <p>If anything, these results will hamper my ability to work in a team. Since I am very introverted and tend to want to work alone, I am very quick to help make a plan, assign roles so that I can get back to working on my own, believing that all other people in the group are working on their appropriate sections.</p>
