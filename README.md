@@ -38,7 +38,7 @@ div.content {
   margin-left: 160px;
   padding: 5px
 }
-
+</stlye>
 </head>
 
 
