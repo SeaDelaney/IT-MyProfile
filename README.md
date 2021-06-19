@@ -1,21 +1,21 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Assignment 1</title>
 <style>
 
 body {
-  margin : 0;
-  font-family: "Latio", sans-serif;
+  margin: 0;
+  font-family: "Lato", sans-serif;
 }
 
-.sidebar{
-  margin 0;
-  padding 0;
-  width 150px;
-  background-color:darkgrey;
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #f1f1f1;
   position: fixed;
-  height 100%;
+  height: 100%;
   overflow: auto;
 }
 
@@ -27,19 +27,18 @@ body {
 }
 
 .sidebar a.active {
-  background-color:green
+  background-color: #04AA6D;
   color: white;
 }
 
-
 .sidebar a:hover:not(.active) {
-  background-color: white;
-  color: black;
+  background-color: #555;
+  color: white;
 }
 
 div.content {
-  margin-left: 160px;
-  padding: 5px;
+  margin-left: 200px;
+  padding: 1px 16px;
   height: 1000px;
 }
 </stlye>
