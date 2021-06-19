@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Assignment 1</title>
+<style>
 body {
   margin : 0;
 }
@@ -42,6 +43,7 @@ div.content {
 
 
 <body style="background-color:lightgrey;">
+
 <div class="sidebar">
   <a class="active" href=""#home">Home</a>
   <a href="#Interest In IT">Interest in IT</a>
