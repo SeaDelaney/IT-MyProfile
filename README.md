@@ -39,7 +39,8 @@ body {
 
 div.content {
   margin-left: 160px;
-  padding: 5px
+  padding: 5px;
+  height: 1000px;
 }
 </stlye>
 </head>
