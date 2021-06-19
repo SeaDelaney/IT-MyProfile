@@ -45,7 +45,7 @@ div.content {
 </head>
 
 
-<body style="background-color:lightgrey;">
+<body>
 
 <div class="sidebar">
   <a class="active" href=""#home">Home</a>
