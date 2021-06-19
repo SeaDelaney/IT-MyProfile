@@ -4,7 +4,7 @@
 <title>Assignment 1</title>
 
 </head>
-<body style="background-color:lightgrey;"">
+<body style="background-color:lightgrey;">
 
 <h2>Personal Information</h2>
 <img src="Assignmentphoto.jpg" alt=self Photo width="300" height="400">
