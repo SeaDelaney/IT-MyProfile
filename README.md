@@ -2,8 +2,55 @@
 <html>
 <head>
 <title>Assignment 1</title>
+body {
+  margin : 0;
+}
+
+.sidebar{
+  margin 0;
+  padding 0;
+  width 150px;
+  background-color:darkgrey;
+  position: fixed;
+  height 100%;
+  overflow: auto;
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+}
+
+.sidebar a.active {
+  background-color:green
+  color: white;
+}
+
+
+.sidebar a:hover:not(.active) {
+  background-color: white;
+  color: black;
+}
+
+div.content {
+  margin-left: 160px;
+  padding: 5px
+}
+
 </head>
+
+
 <body style="background-color:lightgrey;">
+<div class="sidebar">
+  <a class="active" href=""#home">Home</a>
+  <a href="#Interest In IT">Interest in IT</a>
+  <a href="#Ideal Job">Ideal Job</a>
+  <a href="#Personal Profile">Personal Profile</a>
+  <a href="#Project Idea">Project Idea</a>
+</div>
+
+
 <h2>Personal Information</h2>
 <img src="Assignmentphoto.jpg" alt=self Photo width="300" height="400">
 <h3>Name:</h3>
@@ -72,18 +119,26 @@ I'm an Australian born student. Ever since finishing school I've studied various
 
 <h2>Project Idea</h2>
 <h3>Overview:</h3>
-I would like to experiment/make a short game demo using the unreal engine 4. This task would be more to get experience using the unreal engine and to potentially take my knowledge into the newer version of unreal 5 when it is released. The unreal engine is widely used in many gaming applications so knowledge in this field is invaluable when it comes to finding position in gaming companies. The short demo I would like to create would take small snippets of inspiration from various other games in an attempt to create a whole original game in the future. Hopefully I would also like to get the opinions and help from various friends who are also studying the same course and develop a larger game with them
+<p>I would like to experiment/make a short game demo using the unreal engine 4. This task would be more to get experience using the unreal engine and to potentially take my knowledge into the newer version of unreal 5 when it is released. The unreal engine is widely used in many gaming applications so knowledge in this field is invaluable when it comes to finding position in gaming companies. The short demo I would like to create would take small snippets of inspiration from various other games in an attempt to create a whole original game in the future. Hopefully I would also like to get the opinions and help from various friends who are also studying the same course and develop a larger game with them</p>
+
 <h3>Motivation:</h3>
-My motivation stems from my love of video games and the interest in moving the field forward. most people who play video games always imagine small and large ways that they might want to change a game to make it better but are never able to actually implement it. Through studying this course, I will actually be able to get the knowledge and skills to be able to make a well fleshed out game. This will be the first step to many implementations in the future that I will hopefully work and continue to implement into the future.
+<p>My motivation stems from my love of video games and the interest in moving the field forward. most people who play video games always imagine small and large ways that they might want to change a game to make it better but are never able to actually implement it. Through studying this course, I will actually be able to get the knowledge and skills to be able to make a well fleshed out game. This will be the first step to many implementations in the future that I will hopefully work and continue to implement into the future.</p>
 <h3>Project Description:</h3>
-During this small time I have to implement a working product later on in the subject I hope to create at least a small area that you are able to walk around with. In there area there will be a few models of my creation, whether they just be simple chairs of blocks on the ground to fill in the area. I'm not sure how far I will get with it but I would like to hopefully implement or experiment with a few other things such as particle animations, weapon firing (just objects coming out of character), jumping/climbing objects or a UI.
-I have worked with implementing First person perspectives before in programs such a Python and using model creation platforms. Following Guides, using the unreal engine own guides or other online platforms, I should hopefully be able to implement a working first person system. the trickiest thing I have found while doing first person before has always been how stable the camera is with keyboard and mouse controls, but this could have stemmed from various problems in the python code I was using
-For the creation of Objects, I will most likely experiment using Unreal's own model creator to save me the problem of implementing and exporting object from other model creation software I have used before such as Blender. I will create a few large boxes if I plan to implement the jumping system so that the objects can actually be used instead of just being there
-Particle animation would range from anything from dust, to smoke, steam, explosions, magic etc....I may just have a few objects mist/dust be the particles I use for this experiment as a way to add more feel to the environment
-Whether it be wonky or not, the starting implementation of a jumping system will be useful as it is used in so many games and is of course going to be needed in a later iteration of the project. Whether it be something as simple as altering a Z-axis of the camera on a button press will be a great start to a jumping mechanic
-In my opinion, a great UI is extremely important in a game. much like most other aspects of a game, a UI can greatly deter someone from wanting to paly something is the user interface is user friendly. hopefully I can at least implement something simple, maybe having something to do with the weapon firing mechanic or some other system. This may be one of the first thing I work on as this will be extremely important to me to make this a fluid and appealing as possible
-Weapon firing would like weird without your character actually holding a weapon in their hands. Because of this it would be easier this early in development to at least just have an object firing out of your character to show what there animation would look like at a later date
-Obviously I may not be able to implement all of these things by the required time of the 3rd assignment, but these are things to continue working on until I have completed something cohesive.
+<p>During this small time I have to implement a working product later on in the subject I hope to create at least a small area that you are able to walk around with. In there area there will be a few models of my creation, whether they just be simple chairs of blocks on the ground to fill in the area. I'm not sure how far I will get with it but I would like to hopefully implement or experiment with a few other things such as particle animations, weapon firing (just objects coming out of character), jumping/climbing objects or a UI.</p>
+<p></p>
+<p>I have worked with implementing First person perspectives before in programs such a Python and using model creation platforms. Following Guides, using the unreal engine own guides or other online platforms, I should hopefully be able to implement a working first person system. the trickiest thing I have found while doing first person before has always been how stable the camera is with keyboard and mouse controls, but this could have stemmed from various problems in the python code I was using</p>
+<p></p>
+<p>For the creation of Objects, I will most likely experiment using Unreal's own model creator to save me the problem of implementing and exporting object from other model creation software I have used before such as Blender. I will create a few large boxes if I plan to implement the jumping system so that the objects can actually be used instead of just being there</p>
+<p></p>
+<p>Particle animation would range from anything from dust, to smoke, steam, explosions, magic etc....I may just have a few objects mist/dust be the particles I use for this experiment as a way to add more feel to the environment</p>
+<p></p>
+<p>Whether it be wonky or not, the starting implementation of a jumping system will be useful as it is used in so many games and is of course going to be needed in a later iteration of the project. Whether it be something as simple as altering a Z-axis of the camera on a button press will be a great start to a jumping mechanic</p>
+<p></p>
+<p>In my opinion, a great UI is extremely important in a game. much like most other aspects of a game, a UI can greatly deter someone from wanting to paly something is the user interface is user friendly. hopefully I can at least implement something simple, maybe having something to do with the weapon firing mechanic or some other system. This may be one of the first thing I work on as this will be extremely important to me to make this a fluid and appealing as possible</p>
+<p></p>
+<p>Weapon firing would like weird without your character actually holding a weapon in their hands. Because of this it would be easier this early in development to at least just have an object firing out of your character to show what there animation would look like at a later date</p>
+<p></p>
+<p>Obviously I may not be able to implement all of these things by the required time of the 3rd assignment, but these are things to continue working on until I have completed something cohesive.</p>
 <h3>Tools and Techniques:</h3>
 <h4>Blender:</h4>
 Blender in my opinion is one of the easiest to use and most well known model creation platform online at this time. It is also easy to export from and the import files and models into the Unreal engine to be able to be used there
